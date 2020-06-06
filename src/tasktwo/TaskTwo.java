@@ -18,16 +18,19 @@ public class TaskTwo {
         
         String firstName;
         String lastName;
-        int HNGi7Id;
+        String language;
+        
           
           firstName = "Christian";
           lastName = "Samuel";
-          HNGi7Id = 2000;
+          language = "Java";
           
           System.out.print("Hello World, this is");
           System.out.print(" "+ firstName);
           System.out.println(" "+ lastName);
-          System.out.println("ID "+HNGi7Id);
+          System.out.println("With HNGi7 ID [06727]");
+          System.out.println("Using " + language + " for stage 2 task ");
+          System.out.println("crismiles@gmail.com");
         
     }
     
